@@ -1,0 +1,11 @@
+# PyCharm 配置
+.idea/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 敏感文件与本地数据
+auth_token.txt
+*.log
+*.docx
